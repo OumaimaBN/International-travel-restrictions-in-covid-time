@@ -6,6 +6,8 @@ Summer is Comming, so In order to have a better visibility about travel restrict
 **Data Source:**
 
 * Datasets provided by https://ourworldindata.org/
+* covid timeseries : https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+
 
 **Technos :** Python, Folium
 
