@@ -15,8 +15,10 @@ Summer is Comming, so In order to have a better visibility about travel restrict
 * [Notebook] International travel restrictions in covid time : A jupyter notebook used for mapping the coronavirus outbreak and related travel restrictions over the world.
 
 **Covid Map :** is a choropleth map about international travel restrictions over the world, and number of confirmed cases in each country
+
 ![alt text](https://github.com/OumaimaBN/International-travel-restrictions-in-covid-time/blob/main/covid_map.PNG)
 
 **Covid heat map:** The spread of coronavirus in the world over time
+
 ![grab-landing-page](https://github.com/OumaimaBN/International-travel-restrictions-in-covid-time/blob/main/covid-heat-map.gif)
 
