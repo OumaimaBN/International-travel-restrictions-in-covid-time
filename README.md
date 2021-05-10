@@ -1,6 +1,7 @@
 # International-travel-restrictions
+Summer is Comming, so In order to have a better visibility about travel restrictions over the world and also to better measure safety of travel, i chose to create a world map visualisation that provides an insight about the international restrictions in a country and also the number of confirmed cases and active ones.
 
-A jupyter notebook used for mapping the coronavirus outbreak and related travel restrictions over the world.
+
 
 **Data Source:**
 
@@ -9,6 +10,9 @@ A jupyter notebook used for mapping the coronavirus outbreak and related travel 
 **Technos :** Python, Folium
 
 **Demo :** The application is deployed using Heroku https://covid-map-viz.herokuapp.com/
+
+**Files:** 
+* [Notebook] International travel restrictions in covid time : A jupyter notebook used for mapping the coronavirus outbreak and related travel restrictions over the world.
 
 **Covid Map :** is a choropleth map about international travel restrictions over the world, and number of confirmed cases in each country
 ![alt text](https://github.com/OumaimaBN/International-travel-restrictions-in-covid-time/blob/main/covid_map.PNG)
