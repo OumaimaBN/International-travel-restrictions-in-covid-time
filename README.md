@@ -11,7 +11,7 @@ Summer is Comming, so In order to have a better visibility about travel restrict
 * International-travel-restrictions : https://ourworldindata.org/grapher/international-travel-covid
 
 
-**Technos :** Python, Folium
+**Technos :** Python 3.9.2
 
 **Demo :** The application is deployed using Heroku https://covid-map-viz.herokuapp.com/
 
